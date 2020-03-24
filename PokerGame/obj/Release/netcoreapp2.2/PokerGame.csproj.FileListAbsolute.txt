@@ -1,0 +1,11 @@
+C:\Users\10060271\source\repos\PokerGame\PokerGame\bin\Release\netcoreapp2.2\PokerGame.deps.json
+C:\Users\10060271\source\repos\PokerGame\PokerGame\bin\Release\netcoreapp2.2\PokerGame.runtimeconfig.json
+C:\Users\10060271\source\repos\PokerGame\PokerGame\bin\Release\netcoreapp2.2\PokerGame.runtimeconfig.dev.json
+C:\Users\10060271\source\repos\PokerGame\PokerGame\bin\Release\netcoreapp2.2\PokerGame.dll
+C:\Users\10060271\source\repos\PokerGame\PokerGame\bin\Release\netcoreapp2.2\PokerGame.pdb
+C:\Users\10060271\source\repos\PokerGame\PokerGame\obj\Release\netcoreapp2.2\PokerGame.csprojAssemblyReference.cache
+C:\Users\10060271\source\repos\PokerGame\PokerGame\obj\Release\netcoreapp2.2\PokerGame.csproj.CoreCompileInputs.cache
+C:\Users\10060271\source\repos\PokerGame\PokerGame\obj\Release\netcoreapp2.2\PokerGame.AssemblyInfoInputs.cache
+C:\Users\10060271\source\repos\PokerGame\PokerGame\obj\Release\netcoreapp2.2\PokerGame.AssemblyInfo.cs
+C:\Users\10060271\source\repos\PokerGame\PokerGame\obj\Release\netcoreapp2.2\PokerGame.dll
+C:\Users\10060271\source\repos\PokerGame\PokerGame\obj\Release\netcoreapp2.2\PokerGame.pdb

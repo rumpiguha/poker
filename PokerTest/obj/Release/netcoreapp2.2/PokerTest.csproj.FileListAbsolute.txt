@@ -1,0 +1,17 @@
+C:\Users\10060271\source\repos\PokerGame\PokerTest\bin\Release\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\10060271\source\repos\PokerGame\PokerTest\bin\Release\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\10060271\source\repos\PokerGame\PokerTest\bin\Release\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\10060271\source\repos\PokerGame\PokerTest\bin\Release\netcoreapp2.2\PokerTest.deps.json
+C:\Users\10060271\source\repos\PokerGame\PokerTest\bin\Release\netcoreapp2.2\PokerTest.runtimeconfig.json
+C:\Users\10060271\source\repos\PokerGame\PokerTest\bin\Release\netcoreapp2.2\PokerTest.runtimeconfig.dev.json
+C:\Users\10060271\source\repos\PokerGame\PokerTest\bin\Release\netcoreapp2.2\PokerTest.dll
+C:\Users\10060271\source\repos\PokerGame\PokerTest\bin\Release\netcoreapp2.2\PokerTest.pdb
+C:\Users\10060271\source\repos\PokerGame\PokerTest\bin\Release\netcoreapp2.2\PokerGame.dll
+C:\Users\10060271\source\repos\PokerGame\PokerTest\bin\Release\netcoreapp2.2\PokerGame.pdb
+C:\Users\10060271\source\repos\PokerGame\PokerTest\obj\Release\netcoreapp2.2\PokerTest.csprojAssemblyReference.cache
+C:\Users\10060271\source\repos\PokerGame\PokerTest\obj\Release\netcoreapp2.2\PokerTest.csproj.CoreCompileInputs.cache
+C:\Users\10060271\source\repos\PokerGame\PokerTest\obj\Release\netcoreapp2.2\PokerTest.AssemblyInfoInputs.cache
+C:\Users\10060271\source\repos\PokerGame\PokerTest\obj\Release\netcoreapp2.2\PokerTest.AssemblyInfo.cs
+C:\Users\10060271\source\repos\PokerGame\PokerTest\obj\Release\netcoreapp2.2\PokerTest.csproj.CopyComplete
+C:\Users\10060271\source\repos\PokerGame\PokerTest\obj\Release\netcoreapp2.2\PokerTest.dll
+C:\Users\10060271\source\repos\PokerGame\PokerTest\obj\Release\netcoreapp2.2\PokerTest.pdb
